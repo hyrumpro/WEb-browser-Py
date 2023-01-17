@@ -24,7 +24,7 @@ Additionally, this example also connects the urlChanged signal of the QWebEngine
 
 It also adds the urlbar to the toolbar, so that the user can type a URL and press Enter to navigate to a new page.
 
-You can run this code by saving it to a file with a .py extension and running it using python.
+You can run this code by saving it to a file with a .py extension and running it using python, you must have python and qtpy indtalled on your computer.
 
 You can further customize the appearance and functionality of the browser by modifying the code.
 
@@ -41,3 +41,4 @@ python web-browser.py
 
 
 
+Made by Hyrum and chatGPT
